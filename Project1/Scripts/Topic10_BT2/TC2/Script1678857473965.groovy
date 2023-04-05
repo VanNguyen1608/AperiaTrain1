@@ -1,6 +1,7 @@
 import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
 
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
+import java.util.*
 
 //Step 1: Open browser 'https://atlassian.design/components/tooltip/examples'
 WebUI.openBrowser('https://atlassian.design/components/tooltip/examples')
